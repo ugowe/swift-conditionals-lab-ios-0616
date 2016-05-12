@@ -1,12 +1,6 @@
 //: [Go Back](@next)
 // 1
 
-// eh... Maybe this isn't a good example.. considering the student might expect the changes to myAccount and otherAccount to be changing 
-
-
-var annFunds = 25
-var jimFunds = 20
-
 func transferTenDollars(myAccount: Int, otherAccount: Int) {
     if otherAccount >= 10 {
         myAccount + 10
@@ -14,10 +8,6 @@ func transferTenDollars(myAccount: Int, otherAccount: Int) {
     }
 }
 
-
-transferTenDollars(jimFunds, otherAccount: annFunds)
-
-
-
-print(annFunds)
-print(jimFunds)
+/*:
+ NOTE: If the student attempts to test out this function, they might notice that when they pass in their variable to this function (if they were to call on this function) that in printing the variable AFTER the function call... their account will not have changed and they will ask why? In my talk with Joe, we aren't going to bring up Structs BUT we should figure out a way to explain this to the student somehow, maybe we talk about value vs reference types in a readme or lab?.
+ */
