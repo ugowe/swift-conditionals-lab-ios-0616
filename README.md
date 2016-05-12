@@ -1,4 +1,4 @@
-# Math, Booleans & Conditionals LAB
+# Math, Booleans & Conditionals Lab
 
 
 ## Learning Objectives - The student should be able to..
