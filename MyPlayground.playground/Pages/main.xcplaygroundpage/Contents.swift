@@ -28,7 +28,7 @@ let b = 32
 
 
 /*: Question 2
-### 2. Print the result of a mod b equals zero
+### 2. Print the result of a modulo b is equal to zero
 */
 // write your code here
 
@@ -47,7 +47,7 @@ let b = 32
 
 
 /*: Question 5
-### 5. Print "true" if a modulo b is zero
+### 5. Print "true" if a modulo b is equal to zero
 */
 // write your code here
 
@@ -68,7 +68,7 @@ let b = 32
 
 
 /*: Question 8
-### 8. Print "true" if y is greater than x and a divided by b is grater than 9
+### 8. Print "true" if y is greater than x and a divided by b is greater than 9
 */
 // write your code here
 
@@ -86,7 +86,7 @@ let b = 32
 
 
 /*: Question 10
-### 10. write a function "isForceWith" that takes a String argument and returns true if the argument is the name of some whom the force is strong with, otherwise it returns false
+### 10. write a function "isForceWith" that takes a String argument and returns true if the argument is the name of some whom the force is strong with, otherwise it returns false.  People who have the force are Luke, Leia, Anakin, Obi Wan, Yoda, Vader.
 */
 // write your code here
 
