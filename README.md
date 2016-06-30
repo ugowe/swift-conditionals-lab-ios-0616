@@ -1,29 +1,28 @@
 # Math, Booleans & Conditionals Lab
 
+![Neil](http://i.imgur.com/FAbeMoI.jpg?1)
 
-## Learning Objectives - The student should be able to..
+> Curious that we spend more time congratulating people who have succeeded than encouraging people who have not. -[Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
+
+## Learning Objectives
 
 * Test their knowledge with the following:
 	* [math](https://github.com/learn-co-curriculum/swift-math-readme)
 	* [booleans](https://github.com/learn-co-curriculum/swift-booleans-readme)
 	* [conditionals](https://github.com/learn-co-curriculum/swift-conditionals-readme)
-	* [functions](https://github.com/learn-co-curriculum/swift-functionReturn-readme)
-	
 
 
 
-## What the student can do at this point 
+## Instructions
 
-* Create variables and constants
-* Is familiar with type annotations, type inference and string interpolation.
-* Can create functions with return types.
-* Is familiar with the String, Int, Double and Bool type.
-* Just learned about Bool prior to this reading.
-* Just coming off a readme where they learned about `if` and `else` clauses.
+* Open up the playground file included with this repo and answer the listed questions (which you will find in the playground file) in order. 
+* There are no tests associated with this playground file.
+* The following two screenshots are included to assist you in case the file doesn't open right to the main.swift file (which it should by default).
+* Make sure you're working in the main.swift file (which you can view by pressing command + 0):
 
+![main](http://i.imgur.com/odAU8pd.png)
+* Make sure render documentation is checked off which you can do in the Hide or show Utilities pane in the top right:
 
-## Outline / Notes
-
-*  I've included a playground file which structures this lab in the format I want it to look like. I want the student to be challenged to think about how they can satisfy what the question is asking without too much hand holding.
+![render](http://i.imgur.com/vCIhFbZ.png)
 
 <a href='https://learn.co/lessons/ConditionalLab' data-visibility='hidden'>View this lesson on Learn.co</a>
